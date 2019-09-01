@@ -1,4 +1,11 @@
+ul {
+  background: gray;
+}
+
 ul li {
-  text-decoration: none;
-  display: inline-block;
+  display: inline;
+}
+
+li a {
+  padding: 20px;
 }
